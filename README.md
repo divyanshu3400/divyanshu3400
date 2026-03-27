@@ -159,7 +159,7 @@ The entire backend for an enterprise dairy ERP — **built and maintained solo**
 
 ### Let's Build Something Meaningful
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/er-divyanshu-kumar-047322228)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-047322228)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nddictator@gmail.com)
 
 *"I don't just write code — I build and ship systems."*
