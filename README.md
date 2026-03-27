@@ -31,7 +31,9 @@ class DivyanshuKushwaha:
         "Celery + Redis async pipelines",
         "Real-time backends (WebSockets / Django Channels)",
         "Bulk notifications → lakhs of users",
-        "Multi-tenant system architecture",
+        "MSSQL with stored procedures & scheduled SQL tasks",
+        "Firebase (Auth, Firestore, FCM, Hosting)",
+        "5+ Android apps published on Google Play Console",
         "Full server ownership (Linux + Windows + CI/CD)",
     ]
     
@@ -54,7 +56,8 @@ class DivyanshuKushwaha:
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL_(Stored_Procs)-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### DevOps & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -63,9 +66,11 @@ class DivyanshuKushwaha:
 ![AWS](https://img.shields.io/badge/AWS_EC2%2FRDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Full-Stack (Bonus)
+### Full-Stack & Mobile (Bonus)
 ![React](https://img.shields.io/badge/React_+_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Play](https://img.shields.io/badge/Google_Play_Console_(5+_apps)-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 ---
 
@@ -78,6 +83,7 @@ The entire backend for an enterprise dairy ERP — **built and maintained solo**
 - 50+ REST API endpoints across inventory, HR, veterinary & milk collection modules
 - **Server-Driven UI engine** — DRF OPTIONS metadata drives dynamic React form rendering (60% less frontend dev time)
 - Celery workers for background Excel imports/exports of 10,000+ row datasets
+- **MSSQL backend** with hand-written stored procedures and scheduled SQL tasks for complex reporting & data aggregation
 - **Multi-tenant data isolation** at the ORM query layer
 
 ---
