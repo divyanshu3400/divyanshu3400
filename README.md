@@ -1,114 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2D4A,50:1565C0,100:0F2D4A&height=220&section=header&text=Divyanshu%20Kumar%20Kushwaha&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20Django%20%26%20Python%20%C2%B7%20Flutter%20%26%20Android&descAlignY=60&descSize=15&descColor=90CAF9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2D4A,40:1565C0,80:0288D1,100:00897B&height=280&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile%20%E2%80%94%20So%20glad%20you%20stopped%20by!&descAlignY=55&descSize=18&descColor=B3E5FC&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1565C0&center=true&vCenter=true&width=800&lines=250%2B+REST+APIs+Built+%F0%9F%94%A5;21+sec+%E2%86%92+200ms+%E2%80%94+100%C3%97+API+Optimization+%E2%9A%A1;14%2C000%2B+Daily+Active+Users+%F0%9F%9A%80;Django+%7C+DRF+%7C+Celery+%7C+Redis+%7C+WebSockets;Flutter+%7C+Android+%7C+Firebase+%7C+6%2B+Play+Store+Apps;Open+to+Remote+%E2%80%94+MNC+%E2%80%94+Abroad+Opportunities)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-047322228)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nddictator@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-divyanshu3400-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu3400)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-1565C0?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-22C55E?style=for-the-badge)](mailto:nddictator@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=divyanshu3400&color=1565c0&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=1565C0&center=true&vCenter=true&width=850&lines=Welcome%2C+Recruiter+%F0%9F%A4%9D+I've+been+expecting+you!;I'm+Divyanshu+%E2%80%94+Full+Stack+Engineer+%F0%9F%9A%80;250%2B+REST+APIs+Built+%F0%9F%94%A5;21+sec+%E2%86%92+200ms+%E2%80%94+100%C3%97+Faster+%E2%9A%A1;Serving+14%2C000%2B+Daily+Users+in+Production+%F0%9F%8F%AD;6%2B+Apps+Live+on+Google+Play+Store+%F0%9F%93%B1;Let%E2%80%99s+Build+Something+Amazing+Together!+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🏆 Numbers That Stop Recruiters Mid-Scroll
+<div align="center">
+
+## 🙏 A Warm Welcome
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+
+</div>
+
+### Hello, and thank you for visiting! 😊
+
+Whether you're a **recruiter**, a **fellow developer**, or just curious — I'm genuinely happy you're here.
+
+My name is **Divyanshu Kumar Kushwaha** and I'm a Full Stack Engineer from **Varanasi, India 🇮🇳** with **4+ years** of building production systems that actually work at scale.
+
+I currently serve as the **sole engineer** behind an enterprise platform handling **14,000+ daily active users** — owning everything from API design and database architecture to mobile apps, server management, and CI/CD pipelines.
+
+If you're looking for someone who **takes full ownership, ships fast, and thinks in systems** — let's talk. 👇
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <h2>250+</h2>
-      <b>REST APIs Built</b><br/>
-      <sub>Across all projects</sub>
-    </td>
-    <td align="center" width="16%">
-      <h2>14,000+</h2>
-      <b>Daily Active Users</b><br/>
-      <sub>Production ERP system</sub>
-    </td>
-    <td align="center" width="16%">
-      <h2>100×</h2>
-      <b>API Optimization</b><br/>
-      <sub>21 seconds → 200ms</sub>
-    </td>
-    <td align="center" width="16%">
-      <h2>Lakhs</h2>
-      <b>Users Notified</b><br/>
-      <sub>Async Celery + FCM</sub>
-    </td>
-    <td align="center" width="16%">
-      <h2>6+</h2>
-      <b>Play Store Apps</b><br/>
-      <sub>Full lifecycle owner</sub>
-    </td>
-    <td align="center" width="16%">
-      <h2>4+ Yrs</h2>
-      <b>Production Experience</b><br/>
-      <sub>Solo. End-to-end.</sub>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-047322228)
+[![Email](https://img.shields.io/badge/📧_Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nddictator@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-1565C0?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Work-22C55E?style=for-the-badge)](mailto:nddictator@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=divyanshu3400&color=1565c0&style=for-the-badge&label=👀+Profile+Views)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🏆 Numbers That Speak for Themselves
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; *Here's what I've actually shipped in production:*
+
+<br/><br/>
+
+| 🔌 250+ | 👥 14,000+ | ⚡ 100× | 📢 Lakhs | 📱 6+ | 🗓️ 4+ Yrs |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **REST APIs Built** | **Daily Active Users** | **API Optimization** | **Users Notified** | **Play Store Apps** | **Production Exp.** |
+| Across all projects | Live enterprise ERP | 21 sec → 200 ms | Async Celery + FCM | Full lifecycle | Solo. End-to-end. |
+
+</div>
+
+---
+
+## 👨‍💻 Who Am I?
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="developer gif"/>
 
 ```python
 class DivyanshuKushwaha:
 
     name        = "Divyanshu Kumar Kushwaha"
     role        = "Full Stack Engineer · Backend Specialist"
-    location    = "Varanasi, India 🇮🇳  |  Open to Remote / Relocation / Abroad"
+    location    = "Varanasi, India 🇮🇳"
+    open_to     = "Remote · Relocation · Abroad with Sponsorship"
     experience  = "4+ years in production systems"
     education   = "BCA — Lucknow University"
 
-    # ── What I've actually shipped ──────────────────────────────
-    apis_built          = "250+ REST API endpoints"
-    daily_users_served  = "14,000+ (enterprise ERP, live production)"
-    api_optimization    = "21,000ms → 200ms  (100× improvement)"
-    notification_scale  = "Lakhs of users via async Celery + FCM pipelines"
-    apps_on_play_store  = "6+ Android & Flutter apps (full lifecycle)"
-    projects_shipped    = "7+ full-stack projects (web + mobile + backend)"
+    # What I've shipped 🚀
+    apis_built   = "250+ REST API endpoints"
+    users_served = "14,000+ daily (live production ERP)"
+    optimization = "21,000ms → 200ms  (100× improvement)"
+    notified     = "Lakhs of users via Celery + FCM"
+    play_apps    = "6+ apps (full lifecycle management)"
+    projects     = "7+ full-stack (web + mobile + backend)"
 
-    # ── Tech I use every day ────────────────────────────────────
-    backend     = ["Python", "Django", "DRF", "Celery", "Redis", "WebSockets", "Django Channels"]
-    databases   = ["PostgreSQL", "MySQL", "MSSQL + Stored Procedures", "Scheduled SQL Tasks"]
-    mobile      = ["Flutter (Riverpod, GoRouter, Hive)", "Android Java", "Firebase", "Google Play Console"]
-    frontend    = ["React + TypeScript", "Vite", "Server-Driven UI Engine"]
-    devops      = ["Linux Ubuntu", "Windows Server IIS", "GitHub Actions CI/CD", "Docker", "Nginx", "AWS EC2/RDS"]
-    firebase    = ["Auth", "Firestore", "FCM", "Hosting"]
+    # My stack 🛠️
+    backend  = ["Python", "Django", "DRF", "Celery", "Redis", "WebSockets"]
+    database = ["PostgreSQL", "MySQL", "MSSQL + Stored Procedures"]
+    mobile   = ["Flutter", "Android Java", "Firebase", "Google Play Console"]
+    frontend = ["React + TypeScript", "Vite", "Server-Driven UI"]
+    devops   = ["Linux", "Windows Server", "GitHub Actions", "Docker", "AWS"]
 
-    superpower  = "I don't just write code. I own the system, ship the product, manage the server."
-    looking_for = ["Remote Backend / Full-Stack Roles", "MNC & Product Companies",
-                   "Abroad with Relocation or Sponsorship", "Open Source Collaboration"]
+    superpower = "I own the entire system — architecture to deployment, solo."
 
-    def contact(self):
-        return {
-            "email":    "nddictator@gmail.com",
-            "linkedin": "linkedin.com/in/divyanshu-kumar-047322228",
-            "github":   "github.com/divyanshu3400",
-        }
+    def say_hello(self, visitor: str) -> str:
+        return f"Thanks for stopping by, {visitor}! Let's build something great 🙌"
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Full Tech Stack
+## 🛠️ My Full Tech Stack
 
 <div align="center">
 
@@ -118,15 +109,15 @@ class DivyanshuKushwaha:
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Django Channels](https://img.shields.io/badge/Django_Channels_%2F_WebSockets-092E20?style=for-the-badge&logo=django&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets_%2F_Channels-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL_%2B_Stored_Procs-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL_%2B_Stored_Procedures-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ DevOps, Cloud & Infrastructure
+### ☁️ DevOps & Cloud
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -157,189 +148,182 @@ class DivyanshuKushwaha:
 
 ---
 
-## 🚀 Projects & What I Actually Built
+## 🚀 What I've Built
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="rocket gif"/>
 
 <details open>
-<summary><h3>🏭 Kashee Dairy ERP — Enterprise Backend Serving 14,000+ Daily Users</h3></summary>
+<summary><b>🏭 Kashee Dairy ERP — 14,000+ Daily Users</b></summary>
 
-> **Stack:** Django DRF · Celery · Redis · MSSQL · WebSockets · React + TypeScript · Windows Server · Ubuntu
+<br/>
 
-The entire backend for a multi-module enterprise ERP — **designed, built, deployed, and maintained 100% solo**.
+> Django DRF · Celery · Redis · MSSQL · WebSockets · React · Windows Server · Ubuntu
 
-**Scale & Impact:**
-- **14,000+ daily active users** across inventory, HR, veterinary, and milk collection modules
-- **50+ REST API endpoints** in this system alone — part of 250+ built across my career
-- **100× API performance improvement** — response time dropped from **21 seconds → 200ms**
+The **entire backend** for an enterprise ERP — designed, built, deployed, and maintained **100% solo**.
 
-**How I fixed the 21s → 200ms:**
-```
-Problem : N+1 queries — hundreds of individual DB hits per request on nested relational data
-Fix     :
-  ✅  select_related() and prefetch_related() on all nested ORM queries
-  ✅  Redis caching layer for low-churn, high-read data
-  ✅  Database indexes on all frequently filtered / sorted columns
-  ✅  Heavy aggregations rewritten as MSSQL stored procedures
-  ✅  Eliminated redundant serializer calls and payload bloat
-Result  : 21,000ms → 200ms — same data, same endpoint, zero new infrastructure
-```
-
-**Architecture Highlights:**
-- **Server-Driven UI engine** — DRF OPTIONS metadata drives React form rendering dynamically → **60% less frontend dev time** per new module
-- **MSSQL stored procedures + scheduled SQL tasks** for complex reporting and automated data aggregation
-- **Celery + Redis task queues** for 10,000+ row Excel imports/exports — zero server timeouts
-- **JWT Auth + RBAC** — role-based permissions enforced at API level across every module
-- **Multi-tenant data isolation** — strict per-organization data boundaries at ORM query level
+- **250+ REST APIs** built across projects — **50+ in this system alone**
+- **14,000+ daily active users** across inventory, HR, veterinary & milk collection
+- **100× speed improvement** — 21 seconds → 200ms through Redis caching, ORM restructuring, DB indexing & stored procedures
+- **Server-Driven UI engine** — DRF OPTIONS drives React forms dynamically → **60% less frontend dev time**
+- **MSSQL stored procedures** + scheduled SQL tasks for complex reporting
+- **Celery workers** handling 10,000+ row Excel imports without blocking
+- **JWT + RBAC** + multi-tenant data isolation at ORM level
 
 </details>
 
----
+<br/>
 
 <details open>
-<summary><h3>📢 Bulk Notification Pipeline — Lakhs of Users</h3></summary>
+<summary><b>📢 Bulk Notification Pipeline — Lakhs of Users</b></summary>
 
-> **Stack:** Celery · FCM · Firebase · Redis · Django
+<br/>
 
-Built for scale — not hundreds of users. **Lakhs.**
+> Celery · FCM · Firebase · Redis · Django
 
-- Async Celery workers with chunked batching for FCM push notifications at massive scale
-- Configurable retry logic, delivery tracking, and dead-letter queues for guaranteed delivery
-- Handles real-time alerts AND scheduled broadcast campaigns from a single unified pipeline
-- Per-device FCM token management and cleanup for stale registrations
+- Async Celery workers with chunked batching for push notifications at **lakh-scale**
+- Retry logic, delivery tracking, dead-letter queues for guaranteed delivery
+- Real-time alerts + scheduled broadcasts from one unified pipeline
 
 </details>
 
----
+<br/>
 
 <details open>
-<summary><h3>💬 Real-Time Chat Backend</h3></summary>
+<summary><b>💬 Real-Time Chat — Django Channels + WebSockets</b></summary>
 
-> **Stack:** Django Channels · Redis Pub/Sub · WebSockets · Flutter
+<br/>
 
-- Full WebSocket backend for instant messaging between 14,000+ field staff and HQ
-- Handles connection lifecycle, message persistence, read receipts, typing indicators, file sharing
-- Redis Pub/Sub for scalable event broadcasting across multiple Celery workers
-- Flutter mobile client with offline message queueing and reconnect handling
+> Django Channels · Redis Pub/Sub · WebSockets · Flutter
+
+- WebSocket backend for instant messaging between 14,000+ field staff and HQ
+- Message persistence, read receipts, typing indicators, file sharing
+- Redis Pub/Sub for scalable broadcasting across Celery workers
 
 </details>
 
----
+<br/>
 
 <details open>
-<summary><h3>👥 HRMS Platform — Web + Mobile</h3></summary>
+<summary><b>📱 6+ Android & Flutter Apps on Google Play</b></summary>
 
-> **Stack:** Django · DRF · Flutter · PostgreSQL · Biometric TCP · Celery Beat
+<br/>
 
-- Complete HR system: attendance, leave, payroll, tour management
-- Biometric device data ingested in real-time over **TCP socket** and synced via Celery Beat
-- Geo-location validation for field staff with configurable site radius enforcement
-- Cross-platform: DRF REST backend + Flutter mobile app + React web dashboard
+| App | Stack | What It Does |
+|-----|-------|-------------|
+| 🥛 Kashee E-Dairy | Flutter + Hive | Offline-first milk collection — Bluetooth thermal printing |
+| 👤 HRMS Mobile | Flutter + Firebase | Attendance, leave, payslips — biometric TCP integration |
+| 💬 Chat App | Flutter + WebSockets | Real-time field communication |
+| 📹 VCG Video | Flutter + WebRTC | Internal video conferencing |
+| 📍 Attendance | Android Java | Geo-validated attendance with SQLite |
+| ➕ More | Flutter / Java | E-commerce, feedback & utility apps |
 
 </details>
 
----
-
-<details open>
-<summary><h3>📱 6+ Android & Flutter Apps — Google Play Console</h3></summary>
-
-> **Stack:** Flutter · Android Java · Firebase · Hive · Riverpod · GoRouter · Bluetooth
-
-| App | Highlight |
-|-----|-----------|
-| 🥛 Kashee E-Dairy | Offline-first milk collection for rural agents — Hive sync + Bluetooth thermal printing |
-| 👤 HRMS Mobile | Employee attendance, leave, payslips — biometric + geo-validation |
-| 💬 Real-Time Chat | WebSocket messaging with Django Channels backend |
-| 📹 VCG Video Meeting | Internal video conferencing app |
-| 📍 Attendance Tracker | Geo-validated attendance with SQLite, Native Android Java |
-| ➕ + More | E-commerce, feedback, and utility apps across freelance projects |
-
-> **Google Play Console:** APK/AAB signing · Release tracks management · Store listing · Google Ads campaigns monitoring
-
-</details>
+<br clear="right"/>
 
 ---
 
-<details open>
-<summary><h3>📧 IMAP Email-to-Ticket Engine</h3></summary>
-
-> **Stack:** Python · Django · IMAP · Celery
-
-- Python service polls mailboxes via IMAP, auto-creates HelpDesk tickets from incoming emails
-- Handles threading, attachment extraction, and priority routing based on email metadata
-- Team-based permission hierarchy — tickets route only to privilege-matched users
-- Async Celery processing so mail polling never blocks the main application
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## 📊 My GitHub in Numbers
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=divyanshu3400&show_icons=true&theme=github_dark&hide_border=true&title_color=1565C0&icon_color=0288D1&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&show=reviews,discussions_started"/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; *Here's what my activity looks like:*
+
+<br/><br/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=divyanshu3400&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=0288D1&text_color=a9b1d6&bg_color=0d1117&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu3400&layout=compact&theme=github_dark&hide_border=true&title_color=1565C0&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu3400&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&text_color=a9b1d6&bg_color=0d1117&langs_count=8&hide=html,css"/>
 
-</div>
+<br/>
 
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu3400&theme=tokyonight&hide_border=true&ring=1565C0&fire=0288D1&currStreakLabel=1565C0)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu3400&theme=github-dark-blue&hide_border=true&ring=1565C0&fire=0288D1&currStreakLabel=1565C0&sideLabels=c9d1d9&dates=718096)](https://git.io/streak-stats)
+<br/>
+
+[![Divyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshu3400&bg_color=0d1117&color=1565C0&line=0288D1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 💡 How I Work
+## 💡 My Work Philosophy
 
 <div align="center">
 
-| | What | Reality |
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/>
+
+</div>
+
+| | Principle | What It Means |
 |:---:|:---|:---|
-| 🏗️ | **Full System Ownership** | Architecture → Backend → Mobile → Server → CI/CD → Deploy — all solo |
-| ⚡ | **Performance Obsessed** | 250+ APIs built; one went 21s → 200ms — I think in indexes and cache layers first |
-| 📡 | **Infrastructure Aware** | I configure the servers, write the pipelines, manage the deployments — not just the app |
-| 🔒 | **Security by Design** | JWT, RBAC, multi-tenant isolation — baked in from day one, not bolted on later |
-| 📱 | **True Full Stack** | Django APIs + React dashboards + Flutter apps + Android — I ship the whole thing |
-| 🤖 | **AI-Accelerated Dev** | Advanced prompting for 20× faster prototyping, architecture, and debugging |
+| 🏗️ | **Full Ownership** | Architecture → Code → Mobile → Server → Deploy → Monitor. All me. |
+| ⚡ | **Performance First** | 250+ APIs built — I think in indexes, cache layers, and async queues |
+| 🔒 | **Security by Design** | JWT, RBAC, multi-tenant isolation — baked in, never bolted on |
+| 📡 | **Infrastructure Aware** | I configure servers and CI/CD pipelines, not just the application code |
+| 📱 | **True Full Stack** | Django APIs + React + Flutter + Android — I ship the complete product |
+| 🤝 | **Collaborative Spirit** | Solo by necessity, team player by nature — clear async communication |
+| 🤖 | **AI-Accelerated** | Advanced prompting for 20× faster dev velocity |
+
+---
+
+## 🎯 What I'm Looking For
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40"/>
+
+```
+🌍  Remote Backend / Full-Stack Roles     →  Django · Python · REST APIs
+🏢  MNC & Product Companies              →  Deep backend systems at real scale  
+✈️  Abroad with Relocation / Sponsorship  →  Any timezone · Any country
+🤝  Open Source Contributions            →  Backend infrastructure & APIs
+```
 
 </div>
 
 ---
 
-## 🎯 Open To
+## 🤝 For Recruiters — A Personal Note
 
 <div align="center">
 
-```
-🌍  Remote Backend / Full-Stack Roles     →  Django · Python · DRF · REST APIs
-🏢  MNC & Product Companies              →  Where backend systems operate at real scale
-✈️  Abroad with Relocation / Sponsorship  →  Any timezone · Any stack
-🤝  Open Source Contributions            →  Backend infrastructure · APIs · Developer tools
-```
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 
 </div>
 
----
+> If you've made it this far — **thank you sincerely** for taking the time. 🙏
+>
+> I know you review hundreds of profiles, and I genuinely appreciate the work you do connecting people with opportunities.
+>
+> I'm **actively looking** for my next role and I respond to every message within **24 hours**.
+> Whether it's a quick question, a role you think might fit, or just a hello —
+> **my inbox is always open.**
 
 <div align="center">
 
----
+<br/>
 
-### 📫 Let's Talk
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-047322228)
+[![LinkedIn](https://img.shields.io/badge/💼_Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-047322228)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nddictator@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_me_directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nddictator@gmail.com)
 
 <br/>
 
-**250+ APIs. 14,000+ daily users. 100× faster. Built solo.**
+---
 
-> *"I don't just write code — I build systems, own infrastructure, and ship products that work at scale."*
+### 250+ APIs · 14,000+ Daily Users · 100× Faster · 6+ Apps · Built Solo 🚀
+
+*"I don't just write code — I build systems, own infrastructure, and ship products that work at scale."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2D4A,50:1565C0,100:0F2D4A&height=130&section=footer" width="100%"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+**I love connecting with people. Drop me a message — I'd love to hear from you! 😊**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00897B,40:0288D1,80:1565C0,100:0F2D4A&height=140&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
