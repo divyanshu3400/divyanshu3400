@@ -32,7 +32,7 @@ If you're looking for someone who **takes full ownership, ships fast, and thinks
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-047322228)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-divyanshu-kumar-047322228/)
 [![Email](https://img.shields.io/badge/📧_Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nddictator@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-1565C0?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vXm5eHX2aT1AW_NLvFjSWXLMupZu6AnI/view?usp=sharing)
 [![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Work-22C55E?style=for-the-badge)](mailto:nddictator@gmail.com)
